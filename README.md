@@ -6,5 +6,5 @@
   
 - **Capstone Project : ZED Travel Planner** </br>
   Worked with my STEP pod to create a smart travel planner that allows users to create a trip itinerary and manage events, flights, and hotels. It also suggests places for users to visit (activities or food), and can optimize their schedule to minimze travel time. </br>
-  Github Repo Link: https://github.com/googleinterns/step98-2020
+  GitHub Repo Link: https://github.com/googleinterns/step98-2020
 
